@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "commander": "^9.4.1",
+    "nanoid": "^4.0.0",
+    "nodemon": "^2.0.20"
+  },
+  "name": "goit-node-hw-01-contacts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergienko314/goit-node-hw-01-contacts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergienko314/goit-node-hw-01-contacts/issues"
+  },
+  "homepage": "https://github.com/sergienko314/goit-node-hw-01-contacts#readme",
+  "description": ""
+}
